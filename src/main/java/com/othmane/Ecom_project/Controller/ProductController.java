@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @Tag(name = "Products", description = "Product management APIs")
+@CrossOrigin
 @RestController
 @RequestMapping("/api")
 public class ProductController {
