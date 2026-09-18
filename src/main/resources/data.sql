@@ -6,7 +6,7 @@ VALUES
      'NVIDIA',
      649.99,
      'GPU',
-     '2025-04-15',
+     '2423-11-02',
      TRUE,
      25,
      'https://example.com/images/rtx-5070.jpg'),
